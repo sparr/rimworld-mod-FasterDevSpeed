@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Faster Dev Speed</name>
+	<author>Sparr</author>
+	<targetVersion>1.0.2096</targetVersion>
+	<description>Increase the maximum ticks per second of speed #4 in dev mode to 4x the default. Only effective on computers fast enough to hit the existing cap.</description>
+	<url>https://github.com/sparr/rimworld-mod-FasterDevSpeed</url>
+</ModMetaData>
