@@ -5,6 +5,7 @@
 	<description>Increase the maximum ticks per second of speed #4 in dev mode to 3x the default. Only effective on computers fast enough to hit the existing cap.</description>
 	<supportedVersions>
 		<li>1.1</li>
+	</supportedVersions>
 	<packageId>sarabrajsingh.fasterdevspeed.1.1.0</packageId>
 	<url>https://github.com/sparr/rimworld-mod-FasterDevSpeed</url>
 	<!-- ensure that we always have the latest HarmonyLib running in RimWorld -->
